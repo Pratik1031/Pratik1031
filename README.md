@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik1031" alt="pratik1031" /></a> </p>
 
-- 🔭 I’m currently working on **Prescripto & Portfolio**
+- 🔭 I’m currently working on *Data Forge**
 
-- 🌱 I’m currently learning **DSA , Java , Spring Boot & Laravel**
+- 🌱 I’m currently learning **DSA , Python , Playwright , Build & Test AI agents using RAG, Ollama and Local LLM's**
 
-- 💬 Ask me about **Javascript , React , Node Js**
+- 💬 Ask me about **Java, Selenium , SDET**
 
 - 📫 How to reach me **pratikdahekar7@gmail.com**
 
